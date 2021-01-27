@@ -1,0 +1,3 @@
+User-agent: *
+Allow:/
+sitemap:https://dogfacetest.site/sitemap.xml
